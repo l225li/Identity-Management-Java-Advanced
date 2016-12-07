@@ -1,0 +1,12 @@
+/Users/Lin/Workspaces/MyEclipse 2016 CI/iamcore_v2/src/com/linli/datamodel/UserTable.java
+/Users/Lin/Workspaces/MyEclipse 2016 CI/iamcore_v2/src/com/linli/servlet/queryAllIdentityServlet.java
+/Users/Lin/Workspaces/MyEclipse 2016 CI/iamcore_v2/src/com/linli/servlet/deleteIdentityServlet.java
+/Users/Lin/Workspaces/MyEclipse 2016 CI/iamcore_v2/src/com/linli/service/MyConnection.java
+/Users/Lin/Workspaces/MyEclipse 2016 CI/iamcore_v2/src/com/linli/servlet/modifyOneIdentityServlet.java
+/Users/Lin/Workspaces/MyEclipse 2016 CI/iamcore_v2/src/com/linli/service/IdentityService.java
+/Users/Lin/Workspaces/MyEclipse 2016 CI/iamcore_v2/src/com/linli/servlet/loginServlet.java
+/Users/Lin/Workspaces/MyEclipse 2016 CI/iamcore_v2/src/com/linli/datamodel/Identity.java
+/Users/Lin/Workspaces/MyEclipse 2016 CI/iamcore_v2/src/com/linli/service/UserService.java
+/Users/Lin/Workspaces/MyEclipse 2016 CI/iamcore_v2/src/com/linli/servlet/createIdentityServlet.java
+/Users/Lin/Workspaces/MyEclipse 2016 CI/iamcore_v2/src/com/linli/servlet/exitServlet.java
+/Users/Lin/Workspaces/MyEclipse 2016 CI/iamcore_v2/src/com/linli/servlet/modifyOneIdentityInfoServlet.java

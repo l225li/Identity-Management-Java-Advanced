@@ -1,0 +1,12 @@
+com/linli/servlet/exitServlet.class
+com/linli/service/IdentityService.class
+com/linli/servlet/modifyOneIdentityInfoServlet.class
+com/linli/servlet/modifyOneIdentityServlet.class
+com/linli/datamodel/UserTable.class
+com/linli/service/UserService.class
+com/linli/datamodel/Identity.class
+com/linli/servlet/deleteIdentityServlet.class
+com/linli/servlet/loginServlet.class
+com/linli/servlet/createIdentityServlet.class
+com/linli/service/MyConnection.class
+com/linli/servlet/queryAllIdentityServlet.class
